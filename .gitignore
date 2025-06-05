@@ -1,0 +1,17 @@
+# Arduino build files
+*.bin
+*.elf
+*.hex
+build/
+
+# IDE files
+.vscode/
+*.tmp
+*.bak
+
+# Personal config files with passwords
+config.h
+
+# OS files
+.DS_Store
+Thumbs.db
